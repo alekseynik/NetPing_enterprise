@@ -23,7 +23,7 @@
 define( 'DB_NAME', 'npdb' );
 
 /** MySQL database username */
-define( 'DB_USER', 'aleksey' );
+define( 'DB_USER', 'aleksey@npdbsite' );
 
 /** MySQL database password */
 define( 'DB_PASSWORD', 'Prewed1234' );
